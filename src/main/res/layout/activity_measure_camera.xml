@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <!-- 色彩图 -->
+        <com.myntai.d.sdk.sample.widget.UVCCameraTextureView
+            android:id="@+id/colorTextureView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:id="@+id/infoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:background="#80000000"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/depthLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <RelativeLayout
+            android:id="@+id/textureView_super_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!-- 深度图 -->
+            <com.myntai.d.sdk.sample.widget.UVCCameraTextureView
+                android:id="@+id/depthTextureView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/accTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:background="#80000000"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:layout_alignParentEnd="true"/>
+
+        <TextView
+            android:id="@+id/gyroTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:background="#80000000"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:layout_below="@id/accTextView"
+            android:layout_alignParentEnd="true"/>
+
+        <TextView
+            android:id="@+id/measureTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:background="#80000000"
+            android:textColor="#FFFFFF"
+            android:textSize="12sp"
+            android:gravity="right"
+            android:layout_below="@id/gyroTextView"
+            android:layout_alignParentEnd="true"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- 瞄准镜 -->
+            <ImageView
+                android:id="@+id/measureSpotImageView"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/measure_spot"
+                android:tint="@color/RED"
+                android:scaleType="centerInside"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/switchIRButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/camera_tool_switch_ir"/>
+
+            <Button
+                android:id="@+id/savePlyButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="savePly"
+                android:text="@string/camera_tool_save_ply"/>
+
+            <Button
+                android:id="@+id/saveDepthButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="saveDepth"
+                android:text="@string/camera_tool_save_depth"/>
+
+            <Button
+                android:id="@+id/readDepthButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="readDepth"
+                android:text="@string/camera_tool_read_depth"/>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</LinearLayout>

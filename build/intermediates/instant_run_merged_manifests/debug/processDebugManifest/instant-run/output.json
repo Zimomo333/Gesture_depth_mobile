@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.3.9","enabled":true,"outputFile":"mynteye_d_android_sdk_sample-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.myntai.d.sdk.sample","split":"","minSdkVersion":"21"}}]

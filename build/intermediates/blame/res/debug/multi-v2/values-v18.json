@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Zimomo\\StudioProjects\\mynteye_d_android_sdk-release_1.3.9_20191107113625\\mynteye_d_android_sdk_sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zimomo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\dd4d85c5893770b4966307dc2bd33e00\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
