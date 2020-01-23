@@ -117,6 +117,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.0'
     implementation fileTree(include: ['*.aar'], dir: 'libs')
     implementation files('libs/libandroid_tensorflow_inference_java.jar')
+    implementation project(path: ':openCVLibrary340')
 }
 
 repositories {

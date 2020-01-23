@@ -15,6 +15,7 @@ import android.util.Log;
 import android.util.Size;
 import android.view.MotionEvent;
 import android.view.Surface;
+import android.view.TextureView;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -29,16 +30,30 @@ import androidx.core.app.ActivityCompat;
 import com.myntai.d.sdk.MYNTCamera;
 import com.myntai.d.sdk.bean.FrameData;
 import com.myntai.d.sdk.bean.ImuData;
+import com.myntai.d.sdk.sample.Classifier;
+import com.myntai.d.sdk.sample.DisplayResult;
 import com.myntai.d.sdk.sample.R;
 import com.myntai.d.sdk.sample.module.common.BaseActivity;
 import com.myntai.d.sdk.sample.widget.UVCCameraTextureView;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.GregorianCalendar;
 import java.util.Locale;
+import org.opencv.android.OpenCVLoader;
+import org.opencv.android.Utils;
+import org.opencv.core.Mat;
+import org.opencv.imgproc.Imgproc;
 
 public class CameraActivity extends BaseActivity {
+    //加载OpenCV,必须先加载
+    static{
+        if(!OpenCVLoader.initDebug())
+        {
+            Log.d("OpenCV", "init failed");
+        }
+    }
 
     static String TAG = "CameraActivity";
     static String KEY_DEPTHTYPE = "depth_type";
@@ -107,6 +122,9 @@ public class CameraActivity extends BaseActivity {
     private CameraTools mCameraTools;
 
     MYNTCamera camera;
+
+    private Classifier classifier;//识别类
+    private static final String MODEL_FILE = "file:///android_asset/digital_gesture.pb"; //模型存放路径
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -244,9 +262,40 @@ public class CameraActivity extends BaseActivity {
         mCameraTools.savePLY();
     }
 
-    public void saveDepth(View view) {
-        mCameraTools.saveDepthData(mPreviewSize.getWidth(), mPreviewSize.getHeight());
+    //缩放图片,使用openCV，缩放方法采用area interpolation法
+    private Bitmap scaleImage(Bitmap bitmap, int width, int height)
+    {
+
+        Mat src = new Mat();
+        Mat dst = new Mat();
+        Utils.bitmapToMat(bitmap, src);
+        //new Size(width, height)
+        Imgproc.resize(src, dst, new org.opencv.core.Size(width,height),0,0,Imgproc.INTER_AREA);
+        Bitmap bitmap1 = Bitmap.createBitmap(dst.cols(),dst.rows(),Bitmap.Config.RGB_565);
+        Utils.matToBitmap(dst, bitmap1);
+        return bitmap1;
     }
+
+    public void saveDepth(View view) {
+        TextureView textureView = findViewById(R.id.depthTextureView);
+        Bitmap bitmap = textureView.getBitmap();
+        //缩放得到用于显示的图片 128*128
+        Bitmap displayBitmap = scaleImage(bitmap,128,128);
+        //缩放得到用于预测的图片 64*64
+        Bitmap bitmapForPredit = scaleImage(bitmap,64,64);
+
+        //加载模型
+        classifier = new Classifier(getAssets(),MODEL_FILE);
+        ArrayList<String> result = classifier.predict(bitmapForPredit);
+        //传递参数
+        Bundle bundle = new Bundle();
+        bundle.putParcelable("image",displayBitmap);
+        bundle.putStringArrayList("recognize_result",result);
+        Intent intent = new Intent(CameraActivity.this, DisplayResult.class);
+        intent.putExtras(bundle);
+        startActivity(intent);
+    }
+
     public void readDepth(View view) {
         mCameraTools.readDepthData();
     }
