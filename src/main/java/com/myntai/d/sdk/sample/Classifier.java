@@ -87,7 +87,7 @@ public class Classifier {
     }
 
 
-    public ArrayList predict(Bitmap bitmap)
+    public String predict(Bitmap bitmap)
     {
         ArrayList<String> list = new ArrayList<>();
         float[] inputdata = getPixels(bitmap);
@@ -119,10 +119,10 @@ public class Classifier {
         DecimalFormat df = new DecimalFormat("0.000000");
         float label_prob = prob[label];
         //返回值
-        list.add(Integer.toString(label));
-        list.add(df.format(label_prob));
+//        list.add(Integer.toString(label));
+//        list.add(df.format(label_prob));
 
-        return list;
+        return Integer.toString(label);
     }
 
 }

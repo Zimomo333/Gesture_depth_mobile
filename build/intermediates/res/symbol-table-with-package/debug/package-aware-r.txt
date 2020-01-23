@@ -675,14 +675,8 @@ id depthTextureView
 id depth_fps_checkBox
 id descTextView
 id disableHome
-id display_layout
-id display_photo
-id display_prob
-id display_result
 id edit_query
 id end
-id exitBtn0
-id exitBtn1
 id expand_activities_button
 id expanded_menu
 id fill
@@ -823,7 +817,6 @@ layout activity_main
 layout activity_measure
 layout activity_measure_camera
 layout activity_plyviewer
-layout display_result
 layout layout_main_listitem
 layout list_item
 layout listitem_device

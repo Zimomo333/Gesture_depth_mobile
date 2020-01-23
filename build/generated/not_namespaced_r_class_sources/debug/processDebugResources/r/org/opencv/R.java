@@ -20,7 +20,7 @@ public final class R {
 
         public static final int any = 0x7f07001f;
         public static final int back = 0x7f070022;
-        public static final int front = 0x7f070053;
+        public static final int front = 0x7f07004d;
     }
     public static final class styleable {
         private styleable() {}

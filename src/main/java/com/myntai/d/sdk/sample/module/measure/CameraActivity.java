@@ -1,16 +1,12 @@
 package com.myntai.d.sdk.sample.module.measure;
 
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.Point;
 import android.os.Bundle;
-import android.os.Environment;
 import android.os.Handler;
-import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.Size;
 import android.view.MotionEvent;
@@ -24,6 +20,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.core.app.ActivityCompat;
 
@@ -31,16 +28,12 @@ import com.myntai.d.sdk.MYNTCamera;
 import com.myntai.d.sdk.bean.FrameData;
 import com.myntai.d.sdk.bean.ImuData;
 import com.myntai.d.sdk.sample.Classifier;
-import com.myntai.d.sdk.sample.DisplayResult;
 import com.myntai.d.sdk.sample.R;
 import com.myntai.d.sdk.sample.module.common.BaseActivity;
 import com.myntai.d.sdk.sample.widget.UVCCameraTextureView;
 
-import java.io.File;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.GregorianCalendar;
-import java.util.Locale;
+
 import org.opencv.android.OpenCVLoader;
 import org.opencv.android.Utils;
 import org.opencv.core.Mat;
@@ -286,14 +279,16 @@ public class CameraActivity extends BaseActivity {
 
         //加载模型
         classifier = new Classifier(getAssets(),MODEL_FILE);
-        ArrayList<String> result = classifier.predict(bitmapForPredit);
-        //传递参数
-        Bundle bundle = new Bundle();
-        bundle.putParcelable("image",displayBitmap);
-        bundle.putStringArrayList("recognize_result",result);
-        Intent intent = new Intent(CameraActivity.this, DisplayResult.class);
-        intent.putExtras(bundle);
-        startActivity(intent);
+        String result = classifier.predict(bitmapForPredit);
+        Toast.makeText(getApplicationContext(),result,Toast.LENGTH_LONG).show();
+
+//        //传递参数
+//        Bundle bundle = new Bundle();
+//        bundle.putParcelable("image",displayBitmap);
+//        bundle.putStringArrayList("recognize_result",result);
+//        Intent intent = new Intent(CameraActivity.this, DisplayResult.class);
+//        intent.putExtras(bundle);
+//        startActivity(intent);
     }
 
     public void readDepth(View view) {
