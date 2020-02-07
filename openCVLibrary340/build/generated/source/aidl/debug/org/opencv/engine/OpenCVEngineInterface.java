@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Zimomo\\StudioProjects\\mynteye_d_android_sdk-release_1.3.9_20191107113625\\mynteye_d_android_sdk_sample\\openCVLibrary340\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
+ * Original file: C:\\Users\\lzh12\\StudioProjects\\mynteye_d_android_sdk-release_1.3.9_20191107113625\\mynteye_d_android_sdk_sample\\openCVLibrary340\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

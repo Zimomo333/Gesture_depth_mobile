@@ -1,214 +1,214 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:2:1-17:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\dd4d85c5893770b4966307dc2bd33e00\AndroidManifest.xml:17:1-22:12
-MERGED from [:openCVLibrary340] C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3364e2237d4fa205af38be5827310a29\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\539dc9728ecd60658d1ca03683f1bdc5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8523021df413d512def921eb185d6cb6\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\90ba7eee489c2257c2b14668babc07f4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\da785982dc1f454ab76e8b359f57d40c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\49ce3db881f9cd10ef8703d65b0b4861\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1a497ccd50ac261257973571b3ffb6dc\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2af5bb08feb12a01104f22e1e21c98b4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c1ae4cb8bdc0a8d2ba0ec9101138e652\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\87e5b27b5abfc93cc628f2e1074c4f66\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\bb4e28944aabc3b8d638ddb1059dc1a5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\13d3f6d264b9e031d521f0465a5d4581\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\2316b40e111dea6a131b2e1cb30d4104\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\87a5c59a060f0d7b0bf3bdade4c0e3a9\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dd3ed3b577fe1d7038fadf80710e853f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\637a2a84419d828d651e6368a90f85d2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6d28ce1fdba2b26efbac4d0da1d7c0ce\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9e835377617c7cc2920dfbe3653a9cb5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ac196a306b534a720d772d65a01dbba\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\48ad2095739bb34b8d97dd8982fb5aec\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\286cd945812667362d7d98d6245d07bd\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d327f55758ebf2d4763c16af48897380\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\acd7e10d814be34f6c11c76c323516e9\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\af179004bee212fe63e223ab5e71530c\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a4da5a0791aea34cd315eadf0448a3b3\AndroidManifest.xml:17:1-22:12
+MERGED from [:openCVLibrary340] C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a706c18385220edf624518e1af2b5236\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\692c756c6e071a4ed88a5127a1c3a2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3c7237e6861781b27728e5b1fc81281a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\97b44bac899c5a9bb09f93f4fc88bbcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4b695989d1cc82d031af0cd8bbd64237\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\75d367de69d13bb8d64f98ed218bacd6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\008c95000f51a9edcae5e2bfa8f6854f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\fe65bcfd12c27d9cbe5e7747445a3d2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ac7f3c864d4b8682a6328775eefa2839\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9dccac9ddcd823ba331d0915a0784719\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\493fd6f675228a59b4bb833c8359e1b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a6f5aba5403a77fc48201cde950a1360\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\8985675aef5ba4dedb7f6fb8c8f69882\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3ae721d9da0a0a0c6d5bb1f62855df85\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2443ea3af3dac6130fa031630516c07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\16ae3c00882cb5557195c65f0b84831e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\87e69fcd088f83738f8c1afe63bee834\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\dbd1f24656c672f72fdb31cce4b63eab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7380d7f5343957d322feb188e76f1f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\17ce1ba848c076b7f6055d0d76b35bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\989fdd2a851aec40d4beec29c8468781\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\74b5cc289a2d874d651c81c6af959e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ef2b72ad561452bf8edf6d8cc556e15e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\de3ba778df645ead4fa7936c44a655d6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
 	package
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:4:5-38
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:9:5-75
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:9:22-72
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:12:5-76
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:12:22-73
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:12:22-73
 application
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:14:5-53:19
-MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:11:5-15:19
-MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:11:5-15:19
-MERGED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\87a5c59a060f0d7b0bf3bdade4c0e3a9\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\87a5c59a060f0d7b0bf3bdade4c0e3a9\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:14:5-53:19
+MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:11:5-15:19
+MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3ae721d9da0a0a0c6d5bb1f62855df85\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3ae721d9da0a0a0c6d5bb1f62855df85\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:20:9-48
-		REJECTED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:20:9-48
+		REJECTED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:13:9-41
 	tools:ignore
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:22:9-48
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:22:9-48
 	android:roundIcon
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:19:9-56
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:19:9-56
 	android:largeHeap
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:24:9-33
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:24:9-33
 	android:icon
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:18:9-45
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:18:9-45
 	android:allowBackup
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:23:9-40
 	tools:replace
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:15:9-38
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:15:9-38
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:16:9-38
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:16:9-38
 activity#com.myntai.d.sdk.sample.MainActivity
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:27:9-36:20
 	android:screenOrientation
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:31:13-49
 	android:label
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:29:13-52
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:29:13-52
 	android:configChanges
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:30:13-63
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:30:13-63
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:28:13-41
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:32:13-35:29
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:34:17-77
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:34:27-74
 activity#com.myntai.d.sdk.sample.module.measure.MeasureActivity
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:40:9-44:20
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:40:9-44:20
 	android:screenOrientation
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:43:13-49
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:43:13-49
 	android:configChanges
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:42:13-63
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:42:13-63
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:41:13-59
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:41:13-59
 activity#com.myntai.d.sdk.sample.module.measure.CameraActivity
-ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:46:9-51:20
+ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:46:9-51:20
 	android:screenOrientation
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:49:13-49
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:49:13-49
 	android:configChanges
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:48:13-63
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:48:13-63
 	android:name
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:47:13-58
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml:47:13-58
 uses-sdk
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:7:5-9:41
-MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\dd4d85c5893770b4966307dc2bd33e00\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\dd4d85c5893770b4966307dc2bd33e00\AndroidManifest.xml:20:5-44
-MERGED from [:openCVLibrary340] C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:openCVLibrary340] C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3364e2237d4fa205af38be5827310a29\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\3364e2237d4fa205af38be5827310a29\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\539dc9728ecd60658d1ca03683f1bdc5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\539dc9728ecd60658d1ca03683f1bdc5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8523021df413d512def921eb185d6cb6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8523021df413d512def921eb185d6cb6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\90ba7eee489c2257c2b14668babc07f4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\90ba7eee489c2257c2b14668babc07f4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\da785982dc1f454ab76e8b359f57d40c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\da785982dc1f454ab76e8b359f57d40c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\49ce3db881f9cd10ef8703d65b0b4861\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\49ce3db881f9cd10ef8703d65b0b4861\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1a497ccd50ac261257973571b3ffb6dc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\1a497ccd50ac261257973571b3ffb6dc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2af5bb08feb12a01104f22e1e21c98b4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2af5bb08feb12a01104f22e1e21c98b4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c1ae4cb8bdc0a8d2ba0ec9101138e652\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\c1ae4cb8bdc0a8d2ba0ec9101138e652\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\87e5b27b5abfc93cc628f2e1074c4f66\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\87e5b27b5abfc93cc628f2e1074c4f66\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\bb4e28944aabc3b8d638ddb1059dc1a5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\bb4e28944aabc3b8d638ddb1059dc1a5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\13d3f6d264b9e031d521f0465a5d4581\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\13d3f6d264b9e031d521f0465a5d4581\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\2316b40e111dea6a131b2e1cb30d4104\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\2316b40e111dea6a131b2e1cb30d4104\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\65eba1666f5d5b865ee160be48f3a35f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\87a5c59a060f0d7b0bf3bdade4c0e3a9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\87a5c59a060f0d7b0bf3bdade4c0e3a9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dd3ed3b577fe1d7038fadf80710e853f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\dd3ed3b577fe1d7038fadf80710e853f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\637a2a84419d828d651e6368a90f85d2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\637a2a84419d828d651e6368a90f85d2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6d28ce1fdba2b26efbac4d0da1d7c0ce\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\6d28ce1fdba2b26efbac4d0da1d7c0ce\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9e835377617c7cc2920dfbe3653a9cb5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\9e835377617c7cc2920dfbe3653a9cb5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ac196a306b534a720d772d65a01dbba\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\0ac196a306b534a720d772d65a01dbba\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\48ad2095739bb34b8d97dd8982fb5aec\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\48ad2095739bb34b8d97dd8982fb5aec\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\286cd945812667362d7d98d6245d07bd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\286cd945812667362d7d98d6245d07bd\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d327f55758ebf2d4763c16af48897380\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d327f55758ebf2d4763c16af48897380\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\acd7e10d814be34f6c11c76c323516e9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\acd7e10d814be34f6c11c76c323516e9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\af179004bee212fe63e223ab5e71530c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\af179004bee212fe63e223ab5e71530c\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:7:5-9:41
+MERGED from [mynteye_d_android_sdk-release_1.3.9_20191107113625.aar] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a4da5a0791aea34cd315eadf0448a3b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a4da5a0791aea34cd315eadf0448a3b3\AndroidManifest.xml:20:5-44
+MERGED from [:openCVLibrary340] C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary340] C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\openCVLibrary340\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a706c18385220edf624518e1af2b5236\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a706c18385220edf624518e1af2b5236\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\692c756c6e071a4ed88a5127a1c3a2b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\692c756c6e071a4ed88a5127a1c3a2b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3c7237e6861781b27728e5b1fc81281a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\3c7237e6861781b27728e5b1fc81281a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\97b44bac899c5a9bb09f93f4fc88bbcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\97b44bac899c5a9bb09f93f4fc88bbcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4b695989d1cc82d031af0cd8bbd64237\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\4b695989d1cc82d031af0cd8bbd64237\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\75d367de69d13bb8d64f98ed218bacd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\75d367de69d13bb8d64f98ed218bacd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\008c95000f51a9edcae5e2bfa8f6854f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\008c95000f51a9edcae5e2bfa8f6854f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\fe65bcfd12c27d9cbe5e7747445a3d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\fe65bcfd12c27d9cbe5e7747445a3d2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ac7f3c864d4b8682a6328775eefa2839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\ac7f3c864d4b8682a6328775eefa2839\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9dccac9ddcd823ba331d0915a0784719\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\9dccac9ddcd823ba331d0915a0784719\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\493fd6f675228a59b4bb833c8359e1b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\493fd6f675228a59b4bb833c8359e1b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a6f5aba5403a77fc48201cde950a1360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a6f5aba5403a77fc48201cde950a1360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\8985675aef5ba4dedb7f6fb8c8f69882\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\8985675aef5ba4dedb7f6fb8c8f69882\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\7d387ff4416f5c7917d174effecc0bd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3ae721d9da0a0a0c6d5bb1f62855df85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3ae721d9da0a0a0c6d5bb1f62855df85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2443ea3af3dac6130fa031630516c07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2443ea3af3dac6130fa031630516c07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\16ae3c00882cb5557195c65f0b84831e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\16ae3c00882cb5557195c65f0b84831e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\87e69fcd088f83738f8c1afe63bee834\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\87e69fcd088f83738f8c1afe63bee834\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\dbd1f24656c672f72fdb31cce4b63eab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\dbd1f24656c672f72fdb31cce4b63eab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7380d7f5343957d322feb188e76f1f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\c7380d7f5343957d322feb188e76f1f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\17ce1ba848c076b7f6055d0d76b35bb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\17ce1ba848c076b7f6055d0d76b35bb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\989fdd2a851aec40d4beec29c8468781\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\989fdd2a851aec40d4beec29c8468781\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\74b5cc289a2d874d651c81c6af959e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\74b5cc289a2d874d651c81c6af959e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ef2b72ad561452bf8edf6d8cc556e15e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ef2b72ad561452bf8edf6d8cc556e15e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\de3ba778df645ead4fa7936c44a655d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lzh12\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\de3ba778df645ead4fa7936c44a655d6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\src\main\AndroidManifest.xml

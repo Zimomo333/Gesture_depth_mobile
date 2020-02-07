@@ -89,12 +89,13 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\Zimomo\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\libs\libandroid_tensorflow_inference_java.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\libs\libandroid_tensorflow_inference_java.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\lzh12\StudioProjects\mynteye_d_android_sdk-release_1.3.9_20191107113625\mynteye_d_android_sdk_sample\libs\com.baidu.tts_2.5.5.109.20191014_01b8485.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.0.0@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\Zimomo\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\f7e2d77a18765fc660245c9766718962:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\lzh12\.gradle\caches\transforms-1\files-1.1\mynteye_d_android_sdk-release_1.3.9_20191107113625.aar\51e7b72cfb8b26a39dc4311ca49aeeef:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
